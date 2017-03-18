@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Chromatic Tuner</string>
+    <string name="app_name">GuitarTuner</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="note_A">A</string>
+    <string name="note_Bb">Bb</string>
+    <string name="note_B">B</string>
+    <string name="note_C">C</string>
+    <string name="note_Cs">C#</string>
+    <string name="note_D">D</string>
+    <string name="note_Eb">Eb</string>
+    <string name="note_E">E</string>
+    <string name="note_F">F</string>
+    <string name="note_Fs">F#</string>
+    <string name="note_G">G</string>
+    <string name="note_Ab">Ab</string>
 </resources>
